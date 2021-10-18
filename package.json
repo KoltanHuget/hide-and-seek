@@ -1,0 +1,23 @@
+{
+  "name": "hide-and-seek",
+  "version": "1.0.0",
+  "description": "2021-10-18 InceptionU class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoltanHuget/hide-and-seek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoltanHuget/hide-and-seek/issues"
+  },
+  "homepage": "https://github.com/KoltanHuget/hide-and-seek#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
